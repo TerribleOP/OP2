@@ -1,3 +1,5 @@
 # OP2
-Nekopijuojat aklai
+Skirta archyvuoti savo atliktus darbus
+Kopijuoti draudžiama pagal akademinio sąžiningumo aktus
+
 17 var
