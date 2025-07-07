@@ -1,0 +1,11 @@
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\bin\Debug\L3Tests1.dll
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\bin\Debug\L3Tests1.pdb
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\bin\Debug\L3.dll
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\bin\Debug\L3.pdb
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\bin\Debug\L3.dll.config
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\obj\Debug\L3Tests1.csproj.AssemblyReference.cache
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\obj\Debug\L3Tests1.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\obj\Debug\L3Tests1.csproj.Up2Date
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\obj\Debug\L3Tests1.dll
+C:\Users\edvin\Desktop\Univero Shenanigans\1_2\OP2\L3\L3Tests1\obj\Debug\L3Tests1.pdb

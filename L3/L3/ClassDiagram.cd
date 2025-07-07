@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L3.Hotel">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAQEgAAAgBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="L3.InOutUtils">
+    <Position X="12.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAAQAABAAAAAAAAAAEAAQgAAAAAAAAIAIAAA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WebForm" />
+      <Property Name="Tourist" />
+      <Property Name="Hotel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="L3.CustomLinkedList&lt;type&gt;">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="L3.CustomLinkedList&lt;type&gt;.Node&lt;type&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIBAEAAgDQAABBAAgAAAAQAAAAQAAAEAAAAAAEAAgA=</HashCode>
+      <FileName>LinkedList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WebForm" />
+      <Property Name="Tourist" />
+      <Property Name="Hotel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="L3.WebForm">
+    <Position X="16" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAigAAAEAAAAAgAAAAAQAgAOgAQQAQABAAAAEYAAAA=</HashCode>
+      <FileName>SecondWebForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L3.TaskUtils">
+    <Position X="19.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAAQAAAAAAAAAAAAAAAAwAAAIAAEAAAAAAgA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WebForm" />
+      <Property Name="Hotel" />
+      <Property Name="Tourist" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="L3.Tourist">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEEAAAAAAAQEoAAAAAAAABAAAIAAAAAAAAAAAiw=</HashCode>
+      <FileName>Tourist.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

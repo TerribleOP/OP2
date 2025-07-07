@@ -1,0 +1,8 @@
+InfoSA
+Math; 1; Emily Clarke; What is 6 + 7?; 13; 6; 12; 13; 14; 15
+Music; 2; Emily Clarke; What is the largest continent by area?; Asia; 9; Africa; Asia; Europe; North America
+Music; 2; Lucas Brown; What is the chemical formula for methane?; CH4; 8; CO2; CH4; H2O; O2
+Music; 2; Michael Davis; What musical is this number from The Phantom of the Opera?; Phantom of the Opera; 8; phantom_theme.mp3
+History; 1; Lucas Brown; Who was the first woman to fly solo across the Atlantic?; Amelia Earhart; 7; Bessie Coleman; Amelia Earhart; Harriet Tubman; Eleanor Roosevelt
+Music; 2; Natalie Williams; Which classical piece is known as the 5th Symphony?; Beethoven's Fifth; 9; beethoven_5th.mp3
+Literature; 2; Lucas Brown; Who wrote The Great Gatsby?; F Scott Fitzgerald; 8; Ernest Hemingway; F Scott Fitzgerald; Mark Twain; John Steinbeck

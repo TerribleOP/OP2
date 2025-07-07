@@ -1,0 +1,15 @@
+Rytas; Valančiūnas; Justas; centras
+CBet; Jankūnas; Martynas; lengvasis puolėjas
+Pieno Žvaigždės; Sabonis; Dainius; lengvasis puolėjas
+Juventus; Sabonis; Mantas; sunkusis puolėjas
+Lietkabelis; Sabonis; Jonas; lengvasis puolėjas
+Šiauliai; Kuzminskas; Jonas; lengvasis puolėjas
+Neptūnas; Mačiulis; Jonas; atakuojantis gynėjas
+CBet; Motiejūnas; Dainius; įžaidėjas
+Neptūnas; Kazlauskas; Martynas; sunkusis puolėjas
+Šiauliai; Kazlauskas; Justas; centras
+Šiauliai; Petrauskas; Tomas; lengvasis puolėjas
+Žalgiris; Petrauskas; Mindaugas; įžaidėjas
+Rytas; Kleiza; Mindaugas; lengvasis puolėjas
+Pieno Žvaigždės; Valančiūnas; Mantas; lengvasis puolėjas
+Žalgiris; Petrauskas; Lukas; lengvasis puolėjas

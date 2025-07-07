@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L2.Hotel">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAEAAAAgBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.HotelLinkedList">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="L2.HotelLinkedList.HotelNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HotelLinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIBAAAAgDAAAABAAAAAAAQAAAAAAAAAAAAAAAEAAgA=</HashCode>
+      <FileName>HotelLinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.InOutUtils">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAgCAAAAAAAIAIAAA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.WebForm">
+    <Position X="2" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQAIUAAAAAAAAAAAQAwAIgAQQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Second Webform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.TaskUtils">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.Tourist">
+    <Position X="8.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEEAAAAAAAQEoAAAAAAAABAAAIAAAAAAAAAAAiw=</HashCode>
+      <FileName>Tourist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2.TouristLinkedList">
+    <Position X="5" Y="8.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="L2.TouristLinkedList.TouristNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TouristLinkedList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIBAAAAgDAAAABAAgAAAAQAAAAAAAAAAAAAAAEAAgA=</HashCode>
+      <FileName>TouristLinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

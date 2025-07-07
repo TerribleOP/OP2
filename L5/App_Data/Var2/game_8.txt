@@ -1,0 +1,11 @@
+2025-01-08
+Žalgiris; Brazdeikis; Dainius; 31; 4; 3
+Neptūnas; Petrauskas; Arnas; 30; 30; 4
+Neptūnas; Jankūnas; Jonas; 37; 3; 1
+Žalgiris; Sabonis; Jonas; 30; 14; 4
+Lietkabelis; Sabonis; Jonas; 15; 4; 4
+CBet; Motiejūnas; Justas; 10; 11; 3
+Žalgiris; Kuzminskas; Lukas; 28; 1; 1
+Juventus; Valančiūnas; Mindaugas; 11; 13; 2
+Rytas; Kuzminskas; Lukas; 21; 15; 1
+Neptūnas; Petrauskas; Lukas; 22; 13; 0

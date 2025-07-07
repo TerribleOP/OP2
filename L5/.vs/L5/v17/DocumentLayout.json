@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|c:\\users\\edvin\\desktop\\univero shenanigans\\1_2\\op2\\l5\\app_code\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:app_code\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\app_code\\taskutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:app_code\\taskutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\secondwebform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:secondwebform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|c:\\users\\edvin\\desktop\\univero shenanigans\\1_2\\op2\\l5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\webform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:webform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\app_code\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:app_code\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\app_code\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:app_code\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\app_code\\gamesregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:app_code\\gamesregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\app_code\\querieddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC7686D-D643-4101-AA63-39E018824EEC}|L5.csproj|solutionrelative:app_code\\querieddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm.aspx",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\WebForm.aspx",
+              "RelativeDocumentMoniker": "WebForm.aspx",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\WebForm.aspx",
+              "RelativeToolTip": "WebForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-03T08:00:22.358Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\WebForm.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm.aspx.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\WebForm.aspx.cs",
+              "RelativeToolTip": "WebForm.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:01:14.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecondWebForm.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\SecondWebForm.cs",
+              "RelativeDocumentMoniker": "SecondWebForm.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\SecondWebForm.cs",
+              "RelativeToolTip": "SecondWebForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:26:44.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InOut.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\InOut.cs",
+              "RelativeDocumentMoniker": "App_Code\\InOut.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\InOut.cs",
+              "RelativeToolTip": "App_Code\\InOut.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowHoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:02:24.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\TaskUtils.cs",
+              "RelativeDocumentMoniker": "App_Code\\TaskUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\TaskUtils.cs",
+              "RelativeToolTip": "App_Code\\TaskUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:02:33.562Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GamesRegister.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\GamesRegister.cs",
+              "RelativeDocumentMoniker": "App_Code\\GamesRegister.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\GamesRegister.cs",
+              "RelativeToolTip": "App_Code\\GamesRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:26:06.871Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\Games.cs",
+              "RelativeDocumentMoniker": "App_Code\\Games.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\Games.cs",
+              "RelativeToolTip": "App_Code\\Games.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:24:40.417Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\Players.cs",
+              "RelativeDocumentMoniker": "App_Code\\Players.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\Players.cs",
+              "RelativeToolTip": "App_Code\\Players.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:24:05.233Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueriedData.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\QueriedData.cs",
+              "RelativeDocumentMoniker": "App_Code\\QueriedData.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\App_Code\\QueriedData.cs",
+              "RelativeToolTip": "App_Code\\QueriedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:29:39.769Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T15:30:47.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StyleSheet.css",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L5\\StyleSheet.css",
+              "RelativeToolTip": "StyleSheet.css",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-12T12:10:31.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

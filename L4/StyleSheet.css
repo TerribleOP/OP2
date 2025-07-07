@@ -1,0 +1,66 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    height: 1000px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+table {
+    width: 90%;
+    max-width: 1800px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: 0 auto 10px auto;
+    overflow-x: auto;
+}
+
+    table th, table td {
+        border: 1px solid #ddd;
+        text-align: center;
+        padding: 8px;
+        word-wrap: break-word;
+        white-space: normal;
+    }
+
+    table th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+    }
+
+    table + table {
+        margin-top: 10px;
+    }
+
+.textbox {
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+    .button:hover {
+        background-color: #0056b3;
+    }
+
+.custom-validator {
+    color: red;
+}
+
+

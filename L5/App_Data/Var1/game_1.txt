@@ -1,0 +1,11 @@
+2025-01-01
+Lietkabelis; Kazlauskas; Justas; 37; 21; 1
+Pieno Žvaigždės; Petrauskas; Dainius; 13; 17; 3
+Lietkabelis; Kuzminskas; Justas; 23; 29; 2
+Žalgiris; Motiejūnas; Martynas; 12; 10; 1
+Pieno Žvaigždės; Kleiza; Lukas; 17; 23; 1
+Juventus; Kazlauskas; Justas; 30; 0; 3
+Šiauliai; Kuzminskas; Jonas; 39; 13; 1
+CBet; Petrauskas; Mindaugas; 16; 15; 0
+Lietkabelis; Petrauskas; Justas; 22; 23; 0
+Pieno Žvaigždės; Valančiūnas; Paulius; 23; 7; 3

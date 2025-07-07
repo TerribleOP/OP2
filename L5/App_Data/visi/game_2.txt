@@ -1,0 +1,11 @@
+2025-01-02
+Neptūnas; Kleiza; Lukas; 19; 6; 4
+Šiauliai; Jankūnas; Tomas; 31; 29; 1
+Juventus; Kuzminskas; Dainius; 32; 3; 5
+Šiauliai; Kleiza; Justas; 14; 15; 4
+Rytas; Motiejūnas; Justas; 27; 22; 4
+Rytas; Mačiulis; Justas; 24; 7; 1
+Žalgiris; Jankūnas; Paulius; 33; 3; 5
+Lietkabelis; Motiejūnas; Mantas; 33; 19; 0
+Šiauliai; Valančiūnas; Tomas; 20; 4; 5
+Šiauliai; Sabonis; Lukas; 11; 2; 3

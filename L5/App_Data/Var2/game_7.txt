@@ -1,0 +1,11 @@
+2025-01-07
+Neptūnas; Brazdeikis; Mindaugas; 29; 30; 0
+Rytas; Motiejūnas; Justas; 39; 22; 0
+Lietkabelis; Brazdeikis; Lukas; 16; 26; 1
+Žalgiris; Petrauskas; Paulius; 16; 8; 3
+Rytas; Mačiulis; Lukas; 17; 24; 2
+Neptūnas; Motiejūnas; Martynas; 40; 22; 3
+Lietkabelis; Jankūnas; Tomas; 15; 22; 2
+Lietkabelis; Petrauskas; Paulius; 38; 7; 2
+Pieno Žvaigždės; Petrauskas; Mindaugas; 21; 29; 3
+Juventus; Kazlauskas; Justas; 22; 22; 4

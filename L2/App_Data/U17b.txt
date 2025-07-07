@@ -1,0 +1,4 @@
+﻿Saulė;Dvivietis;80
+Luna;Vienvietis;50
+Ekete;Trivietis;120
+Koma;Dvivietis;90

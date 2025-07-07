@@ -1,0 +1,11 @@
+2025-01-05
+Neptūnas; Mačiulis; Dainius; 38; 10; 2
+Rytas; Petrauskas; Jonas; 28; 20; 2
+Neptūnas; Mačiulis; Martynas; 15; 23; 1
+Žalgiris; Sabonis; Tomas; 14; 23; 0
+Pieno Žvaigždės; Brazdeikis; Dainius; 40; 27; 1
+Lietkabelis; Jankūnas; Mindaugas; 28; 9; 0
+Pieno Žvaigždės; Kleiza; Paulius; 37; 29; 5
+CBet; Sabonis; Mindaugas; 13; 21; 4
+Rytas; Kuzminskas; Lukas; 32; 12; 1
+Pieno Žvaigždės; Kuzminskas; Tomas; 19; 28; 4

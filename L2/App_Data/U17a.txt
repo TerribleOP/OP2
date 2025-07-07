@@ -1,0 +1,8 @@
+﻿Jonaitis;Jonas;Saulė;Dvivietis;3
+Petrauskaitė;Ieva;Luna;Vienvietis;5
+Kazlauskas;Mantas;Baltija;Trivietis;2
+Barauskienė;Ruta;Nida;Dvivietis;6
+Stankevicius;Tomas;Luna;Vienvietis;6
+Grigaitė;Monika;Baltija;Trivietis;1
+Zukauskas;Arvydas;Nida;Dvivietis;6
+Vasiliauskaitė;Lina;Luna;Vienvietis;6

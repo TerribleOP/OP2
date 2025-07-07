@@ -1,0 +1,6 @@
+Statius
+Math; 1; James Buchanon; What is 3 + 5?; 8; 4; 5; 6; 7; 8
+History; 2; James Buchanon; Who was the first president of the United States?; George Washington; 7; Thomas Jefferson; George Washington; John Adams; Abraham Lincoln
+Geography; 2; James Buchanon; What is the capital of Japan?; Tokyo; 8; Beijing; Tokyo; Seoul; Kyoto
+Science; 1; Sarah Johnson; What is H2O more commonly known as?; Water; 6; Water; Oxygen; Hydrogen; Carbon Dioxide
+Literature; 2; John Doe; Who wrote Pride and Prejudice?; Jane Austen; 7; Charlotte Bronte; Jane Austen; Mary Shelley; Mark Twain

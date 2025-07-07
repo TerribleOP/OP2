@@ -1,0 +1,11 @@
+2025-01-03
+Pieno Žvaigždės; Valančiūnas; Paulius; 11; 25; 1
+Neptūnas; Mačiulis; Martynas; 28; 3; 0
+Šiauliai; Sabonis; Lukas; 32; 13; 0
+Žalgiris; Jankūnas; Mindaugas; 11; 6; 2
+Pieno Žvaigždės; Jankūnas; Lukas; 33; 20; 1
+Neptūnas; Brazdeikis; Justas; 16; 23; 3
+Neptūnas; Valančiūnas; Jonas; 29; 23; 2
+Rytas; Petrauskas; Paulius; 10; 16; 4
+Juventus; Kuzminskas; Dainius; 40; 3; 0
+Neptūnas; Jankūnas; Arnas; 11; 30; 0

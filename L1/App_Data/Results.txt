@@ -1,0 +1,11 @@
+10211
+02222
+02210
+22111
+
+10202
+12022
+01220
+22121
+
+Didžiausia plotą sudaro viršuje 9 ir apačioje 12 langelių.Bendras langelis: 0 eilute, 0 stulpelis

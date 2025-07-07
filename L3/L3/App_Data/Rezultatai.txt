@@ -1,0 +1,55 @@
+Pradiniai turistų duomenys:
+Pavarde         | Vardas          | Viesbutis  | Kambario tipas  | Nakvyniu skaicius     | 
+-------------------------------------------------------------------------------------------
+Jonaitis        | Jonas           | Saulė      | Dvivietis       |                      3|
+Petrauskaitė    | Ieva            | Luna       | Vienvietis      |                      5|
+Kazlauskas      | Mantas          | Baltija    | Trivietis       |                      2|
+Barauskienė     | Ruta            | Nida       | Dvivietis       |                      6|
+Stankevicius    | Tomas           | Luna       | Vienvietis      |                      6|
+Grigaitė        | Monika          | Baltija    | Trivietis       |                      1|
+Zukauskas       | Arvydas         | Nida       | Dvivietis       |                      6|
+Vasiliauskaitė  | Lina            | Luna       | Vienvietis      |                      6|
+-------------------------------------------------------------------------------------------
+
+Pradiniai viesbuciu duomenys:
+Viesbutis       | Kambario tipas  | Kaina|
+------------------------------------------
+Saulė           | Dvivietis       |    80|
+Luna            | Vienvietis      |    50|
+Baltija         | Trivietis       |   120|
+Nida            | Dvivietis       |    90|
+------------------------------------------
+
+Panaudoti viešbučiai:
+Viesbutis       | Kambario tipas  | Kaina|
+------------------------------------------
+Saulė           | Dvivietis       |    80|
+Luna            | Vienvietis      |    50|
+Baltija         | Trivietis       |   120|
+Nida            | Dvivietis       |    90|
+------------------------------------------
+
+Nepanaudoti viešbučiai:
+Tokio tipo duomenų nėra
+Ilgiausiai prabuve turistai:
+Pavarde         | Vardas          | Viesbutis  | Kambario tipas  | Nakvyniu skaicius     | 
+-------------------------------------------------------------------------------------------
+Zukauskas       | Arvydas         | Nida       | Dvivietis       |                      6|
+Vasiliauskaitė  | Lina            | Luna       | Vienvietis      |                      6|
+Stankevicius    | Tomas           | Luna       | Vienvietis      |                      6|
+Barauskienė     | Ruta            | Nida       | Dvivietis       |                      6|
+-------------------------------------------------------------------------------------------
+
+Mažiausiai išleidę turistai:
+Pavarde         | Vardas          |       Suma|
+-----------------------------------------------
+Zukauskas       | Arvydas         |        540|
+Vasiliauskaitė  | Lina            |        300|
+Stankevicius    | Tomas           |        300|
+Petrauskaitė    | Ieva            |        250|
+Kazlauskas      | Mantas          |        240|
+Jonaitis        | Jonas           |        240|
+Grigaitė        | Monika          |        120|
+Barauskienė     | Ruta            |        540|
+-----------------------------------------------
+

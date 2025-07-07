@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDD7C9-3EA4-4976-8B2D-03445A7254C2}|L2.csproj|c:\\users\\edvin\\desktop\\univero shenanigans\\1_2\\op2\\l2\\touristlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDD7C9-3EA4-4976-8B2D-03445A7254C2}|L2.csproj|solutionrelative:touristlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDD7C9-3EA4-4976-8B2D-03445A7254C2}|L2.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDD7C9-3EA4-4976-8B2D-03445A7254C2}|L2.csproj|solutionrelative:webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DDD7C9-3EA4-4976-8B2D-03445A7254C2}|L2.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DDD7C9-3EA4-4976-8B2D-03445A7254C2}|L2.csproj|solutionrelative:inoututils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InOutUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\InOutUtils.cs",
+              "RelativeDocumentMoniker": "InOutUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\InOutUtils.cs",
+              "RelativeToolTip": "InOutUtils.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAmwMQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:45:45.897Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TouristLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\TouristLinkedList.cs",
+              "RelativeDocumentMoniker": "TouristLinkedList.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\TouristLinkedList.cs",
+              "RelativeToolTip": "TouristLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:43:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\WebForm.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm.aspx.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L2\\WebForm.aspx.cs",
+              "RelativeToolTip": "WebForm.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:41:34.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

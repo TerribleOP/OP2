@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_code\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_code\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_code\\musicquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_code\\musicquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_code\\taskutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_code\\taskutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_data\\input\\data1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_data\\input\\data1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_code\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_code\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|c:\\users\\edvin\\desktop\\univero shenanigans\\1_2\\op2\\l4\\web.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:web.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_code\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_code\\testquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_data\\input\\data2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_data\\input\\data2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_data\\input\\data3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_data\\input\\data3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\secondwebpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:secondwebpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\web.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:web.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\app_code\\studentassosiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BDBDD-55E7-4460-A3DE-C79013A43481}|L4.csproj|solutionrelative:app_code\\studentassosiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.aspx",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\Web.aspx",
+              "RelativeDocumentMoniker": "Web.aspx",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\Web.aspx",
+              "RelativeToolTip": "Web.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-18T12:57:29.196Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\Web.aspx.cs",
+              "RelativeDocumentMoniker": "Web.aspx.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\Web.aspx.cs",
+              "RelativeToolTip": "Web.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:45:22.921Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InOut.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\InOut.cs",
+              "RelativeDocumentMoniker": "App_Code\\InOut.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\InOut.cs",
+              "RelativeToolTip": "App_Code\\InOut.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDQAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:59:50.537Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\TaskUtils.cs",
+              "RelativeDocumentMoniker": "App_Code\\TaskUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\TaskUtils.cs",
+              "RelativeToolTip": "App_Code\\TaskUtils.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:59:57.915Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentAssosiation.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\StudentAssosiation.cs",
+              "RelativeDocumentMoniker": "App_Code\\StudentAssosiation.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\StudentAssosiation.cs",
+              "RelativeToolTip": "App_Code\\StudentAssosiation.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:17:50.549Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\Question.cs",
+              "RelativeDocumentMoniker": "App_Code\\Question.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\Question.cs",
+              "RelativeToolTip": "App_Code\\Question.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:59:39.379Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\MusicQuestion.cs",
+              "RelativeDocumentMoniker": "App_Code\\MusicQuestion.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\MusicQuestion.cs",
+              "RelativeToolTip": "App_Code\\MusicQuestion.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwFoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:00:21.012Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\TestQuestion.cs",
+              "RelativeDocumentMoniker": "App_Code\\TestQuestion.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Code\\TestQuestion.cs",
+              "RelativeToolTip": "App_Code\\TestQuestion.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:00:13.386Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data1.txt",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Data\\Input\\Data1.txt",
+              "RelativeDocumentMoniker": "App_Data\\Input\\Data1.txt",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Data\\Input\\Data1.txt",
+              "RelativeToolTip": "App_Data\\Input\\Data1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-19T14:41:58.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data2.txt",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Data\\Input\\Data2.txt",
+              "RelativeDocumentMoniker": "App_Data\\Input\\Data2.txt",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Data\\Input\\Data2.txt",
+              "RelativeToolTip": "App_Data\\Input\\Data2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-19T14:42:09.959Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data3.txt",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Data\\Input\\Data3.txt",
+              "RelativeDocumentMoniker": "App_Data\\Input\\Data3.txt",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\App_Data\\Input\\Data3.txt",
+              "RelativeToolTip": "App_Data\\Input\\Data3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-19T14:42:22.259Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecondWebPage.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\SecondWebPage.cs",
+              "RelativeDocumentMoniker": "SecondWebPage.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\SecondWebPage.cs",
+              "RelativeToolTip": "SecondWebPage.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:33:58.987Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StyleSheet.css",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\Univero Shenanigans\\1_2\\OP2\\L4\\StyleSheet.css",
+              "RelativeToolTip": "StyleSheet.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-28T10:16:39.176Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
